@@ -1,22 +1,45 @@
-# Hi 👋, I'm Anusha Kondaguduru
+<h1 align="center">Anusha Kondaguduru</h1>
 
-<h3 align="center">Software Engineering • Full Stack Development • AI & Data Analytics Enthusiast</h3>
+<h3 align="center">
+Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anusha786615&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<a href="https://linkedin.com/in/anusha-kondaguduru-b04667353">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anushakondaguduru037@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anusha786615">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CGPA-9.43%2F10-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-300%2B%20Problems-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-Hyderabad,%20India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering student at **VNR Vignana Jyothi Institute of Engineering and Technology**.
+I'm **Anusha Kondaguduru**, a Computer Science Engineering student at **VNR Vignana Jyothi Institute of Engineering and Technology** with a **CGPA of 9.43/10**.
 
-📈 CGPA: **9.43 / 10**
+I enjoy building intelligent software that combines **Full Stack Development, Artificial Intelligence, Data Analytics, and Backend Engineering**. My projects focus on solving real-world problems using scalable software, modern technologies, and data-driven solutions.
 
-💡 Passionate about building scalable software using **AI, Full Stack Development, Data Analytics, and Modern Web Technologies**.
+I'm continuously improving my skills through competitive programming, open-source learning, hackathons, and hands-on software development.
 
-🚀 I enjoy solving real-world problems through intelligent applications, backend systems, and interactive dashboards.
 
 ---
 
