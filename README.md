@@ -318,19 +318,19 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 </p>
 
- **Let's Connect**
+**Let's Connect**
 
 <p align="center">
   <a href="mailto:anushakondaguduru037@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anushakondaguduru037%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-anushakondaguduru037%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/anusha-kondaguduru-b04667353">
-    <img src="https://img.shields.io/badge/LinkedIn-Anusha%20Kondaguduru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/anusha-kondaguduru-b04667353">
+    <img src="https://img.shields.io/badge/LinkedIn-Anusha%20Kondaguduru-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/anusha786615">
-    <img src="https://img.shields.io/badge/GitHub-anusha786615-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-anusha786615-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
