@@ -120,7 +120,7 @@ I'm continuously improving my skills through competitive programming, open-sourc
 <details>
 <summary><b>🌾 Kisan Call Centre Query Assistant</b></summary>
 
-### 🌾 Kisan Call Centre Query Assistant
+###  Kisan Call Centre Query Assistant
 
 **Tech Stack:** Python • IBM Watsonx Granite • FAISS • Streamlit • FastAPI
 
@@ -128,14 +128,14 @@ I'm continuously improving my skills through competitive programming, open-sourc
 
 An AI-powered agricultural assistant that helps farmers receive accurate answers to agricultural queries using Retrieval-Augmented Generation (RAG).
 
-### ✨ Features
+###  Features
 
-- 🤖 AI-powered agricultural query resolution
-- 🔍 Semantic Search using FAISS
-- 🧠 IBM Watsonx Granite LLM
-- 🌐 Streamlit-based interactive interface
-- ⚡ FastAPI backend
-- 📄 PDF document processing
+- AI-powered agricultural query resolution
+- Semantic Search using FAISS
+- IBM Watsonx Granite LLM
+- Streamlit-based interactive interface
+- FastAPI backend
+- PDF document processing
 
 ### Skills Demonstrated
 
@@ -145,7 +145,6 @@ An AI-powered agricultural assistant that helps farmers receive accurate answers
 - Prompt Engineering
 - API Development
 
-🔗 **Repository:** *(Add GitHub Link)*
 
 </details>
 
@@ -154,7 +153,7 @@ An AI-powered agricultural assistant that helps farmers receive accurate answers
 <details>
 <summary><b>🚗 MotoMart – Smart Hub for Vehicle Bookings & Rentals</b></summary>
 
-### 🚗 MotoMart
+###  MotoMart
 
 **Tech Stack:** Java • JDBC • MySQL
 
@@ -162,14 +161,14 @@ An AI-powered agricultural assistant that helps farmers receive accurate answers
 
 A vehicle rental and booking management system that allows customers, vendors, and administrators to manage vehicles and bookings efficiently.
 
-### ✨ Features
+###  Features
 
-- 👤 User Authentication
-- 🚘 Vehicle Booking
-- 🏪 Vendor Management
-- 💳 Transaction Management
-- 📊 Admin Dashboard
-- 🗃️ MySQL Database Integration
+-  User Authentication
+-  Vehicle Booking
+-  Vendor Management
+-  Transaction Management
+-  Admin Dashboard
+-  MySQL Database Integration
 
 ### Skills Demonstrated
 
@@ -179,7 +178,7 @@ A vehicle rental and booking management system that allows customers, vendors, a
 - CRUD Operations
 - SQL
 
-🔗 **Repository:** *(Add GitHub Link)*
+
 
 </details>
 
@@ -188,7 +187,7 @@ A vehicle rental and booking management system that allows customers, vendors, a
 <details>
 <summary><b>🏠 House Price Prediction Dashboard</b></summary>
 
-### 🏠 House Price Prediction Dashboard
+###  House Price Prediction Dashboard
 
 **Tech Stack:** Power BI • Excel • DAX
 
@@ -196,7 +195,7 @@ A vehicle rental and booking management system that allows customers, vendors, a
 
 A Power BI dashboard that analyzes housing market data and presents meaningful business insights through interactive visualizations.
 
-### ✨ Features
+###  Features
 
 - 📈 Interactive Dashboard
 - 📊 KPI Cards
@@ -211,7 +210,7 @@ A Power BI dashboard that analyzes housing market data and presents meaningful b
 - DAX
 - Business Analytics
 
-🔗 **Repository:** *(Add GitHub Link)*
+
 
 </details>
 
@@ -220,7 +219,7 @@ A Power BI dashboard that analyzes housing market data and presents meaningful b
 <details>
 <summary><b>🌐 Smart Campus Garbage Reporting System</b></summary>
 
-### 🌐 Smart Campus Garbage Reporting System
+###  Smart Campus Garbage Reporting System
 
 **Tech Stack:** React • Node.js • MongoDB
 
@@ -228,14 +227,14 @@ A Power BI dashboard that analyzes housing market data and presents meaningful b
 
 A smart campus platform where students and faculty can report garbage issues. Maintenance staff receive notifications and update the issue status after cleaning.
 
-### ✨ Features
+###  Features
 
-- 📸 Upload garbage images
-- 📍 Report issue location
-- 🔔 Notification system
-- 👨‍🔧 Staff dashboard
-- ✅ Issue tracking
-- 📊 Admin monitoring
+-  Upload garbage images
+-  Report issue location
+-  Notification system
+-  Staff dashboard
+-  Issue tracking
+-  Admin monitoring
 
 ### Skills Demonstrated
 
@@ -245,7 +244,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 - Authentication
 - Responsive UI
 
-🔗 **Repository:** *(Add GitHub Link)*
+
 
 </details>
 
