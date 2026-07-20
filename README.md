@@ -1,4 +1,4 @@
-<h3 align="center">Anusha Kondaguduru</h3>
+<h5 align="center">Anusha Kondaguduru</h5>
 
 <p align="center">
 Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
@@ -30,7 +30,7 @@ Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
 
 ---
 
-<h4>👩‍💻 About Me</h4>
+<h6>👩‍💻 About Me</h6>
 
 <p>
 I'm <b>Anusha Kondaguduru</b>, a Computer Science Engineering student at
@@ -47,7 +47,7 @@ My projects focus on solving real-world problems using scalable software, modern
 I'm continuously improving my skills through competitive programming, open-source learning, hackathons, and hands-on software development.
 </p>
 
-### 🎯 Core Focus
+#### 🎯 Core Focus
 
 -  Software Engineering
 -  Full Stack Development
@@ -58,7 +58,7 @@ I'm continuously improving my skills through competitive programming, open-sourc
 
 ---
 
-### 🚀 Open To
+#### 🚀 Open To
 
 - Software Engineering Internships
 - Full Stack Development
@@ -68,7 +68,7 @@ I'm continuously improving my skills through competitive programming, open-sourc
 
 ---
 
-### Tech Stack
+#### Tech Stack
 
 **Programming Languages**
 
@@ -119,7 +119,7 @@ I'm continuously improving my skills through competitive programming, open-sourc
 
 ---
 
-### 🚀 Featured Projects
+#### 🚀 Featured Projects
 
 <details>
 <summary><b>🌾 Kisan Call Centre Query Assistant</b></summary>
@@ -247,7 +247,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-### 💼 Experience
+#### 💼 Experience
 
 **Volunteer – Student Force Club, VNRVJIET**
 
@@ -257,7 +257,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-### 🏆 Achievements
+#### 🏆 Achievements
 
  CGPA **9.43/10**
 
@@ -271,7 +271,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-### 📜 Certifications
+#### 📜 Certifications
 
 <p>
 
@@ -303,7 +303,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-### Coding Profiles
+#### Coding Profiles
 
 <p align="center">
 
@@ -316,7 +316,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 </a>
 </p>
 
-### Let's Connect
+#### Let's Connect
 
 <p align="center">
 
