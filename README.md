@@ -121,7 +121,7 @@ I'm continuously improving my skills through competitive programming, open-sourc
 
 ---
 
-** Featured Projects**
+**Featured Projects**
 
 <details>
 <summary><b> Kisan Call Centre Query Assistant</b></summary>
@@ -249,7 +249,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-** Experience**
+**Experience**
 
 **Volunteer – Student Force Club, VNRVJIET**
 
@@ -273,7 +273,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-** Certifications**
+**Certifications**
 
 <p>
 
