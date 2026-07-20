@@ -271,52 +271,39 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
  Active Competitive Programmer
 
-<h2 align="left">📜 Certifications</h2>
+<h3 align="center">Certifications</h3>
 
 <p align="center">
 
-<a href="IBM_LINK">
-<img src="https://img.shields.io/badge/IBM-Introduction%20to%20Generative%20AI-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+<a href="https://skills.yourlearning.ibm.com/certificate/share/e5f24009f4ewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV80MDU4ODU5IiwKICAib2JqZWN0VHlwZSIgOiAiQUNUSVZJVFkiLAogICJsZWFybmVyQ05VTSIgOiAiNzA5MDgwN1JFRyIKfQ38d191e79f-10">
+<img src="https://img.shields.io/badge/IBM-Generative%20AI-1261FE?style=flat-square&logo=ibm&logoColor=white"/>
 </a>
 
-<a href="SERVICENOW_LINK">
-<img src="https://img.shields.io/badge/ServiceNow-Virtual%20Internship-00A862?style=for-the-badge&logo=servicenow&logoColor=white"/>
+<a href="https://www.linkedin.com/posts/anusha-kondaguduru-b04667353_servicenow-aicte-thesmartbridge-share-7473071402976403456-tcZv/">
+<img src="https://img.shields.io/badge/ServiceNow-Virtual%20Internship-00A862?style=flat-square&logo=servicenow&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="DELOITTE_LINK">
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
-</a>
-
-<a href="POWERBI_LINK">
-<img src="https://img.shields.io/badge/Microsoft-Power%20BI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="INDIAAI_LINK">
-<img src="https://img.shields.io/badge/IndiaAI-YUVA%20AI-orange?style=for-the-badge"/>
-</a>
-
-<a href="CODECHEF_LINK">
-<img src="https://img.shields.io/badge/CodeChef-Practice%20Certification-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a2bf771b5f840cb51ed44b3_1781943389282_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
 </a>
 
 </p>
-**Coding Profiles**
 
 <p align="center">
 
-<a href="https://leetcode.com/u/kushlu786/">
-<img src="https://img.shields.io/badge/LeetCode-kushlu786-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+<a href="https://www.udemy.com/certificate/UC-476731ae-1afc-4e46-bbdf-158f72447c32/">
+<img src="https://img.shields.io/badge/Microsoft-Power%20BI-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/kushlu786">
-<img src="https://img.shields.io/badge/CodeChef-kushlu786-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+<a href="https://www.coursera.org/account/accomplishments/certificate/XPYNCZOAY53F">
+<img src="https://img.shields.io/badge/IndiaAI-YUVA%20AI-orange?style=flat-square"/>
 </a>
+
+<a href="https://www.codechef.com/certificates/public/91c3a98">
+<img src="https://img.shields.io/badge/CodeChef-Practice-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+</a>
+
 </p>
-
 **Let's Connect**
 
 <p align="center">
