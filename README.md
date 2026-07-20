@@ -197,11 +197,11 @@ A Power BI dashboard that analyzes housing market data and presents meaningful b
 
 ###  Features
 
-- 📈 Interactive Dashboard
-- 📊 KPI Cards
-- 📍 Location-based Analysis
-- 📉 Trend Analysis
-- 🎨 Custom Visualizations
+-  Interactive Dashboard
+-  KPI Cards
+-  Location-based Analysis
+-  Trend Analysis
+-  Custom Visualizations
 
 ### Skills Demonstrated
 
@@ -263,15 +263,15 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 # 🏆 Achievements
 
-🏅 CGPA **9.43/10**
+ CGPA **9.43/10**
 
-🏅 Top 100 Coders Competition Participant
+ Top 100 Coders Competition Participant
 
-🏅 ACM Winter Coding Contest 5.0 Participant
+ ACM Winter Coding Contest 5.0 Participant
 
-🏅 Built AI-powered and Full Stack Projects
+ Built AI-powered and Full Stack Projects
 
-🏅 Active Competitive Programmer
+ Active Competitive Programmer
 
 ---
 
@@ -307,43 +307,61 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-# 🌱 Currently Learning
+#  Coding Profiles
 
-```yaml
-learning:
-  - Data Structures & Algorithms
-  - System Design
-  - MERN Stack
-  - Machine Learning
-  - Agentic AI
+<p align="center">
 
-building:
-  - AI-powered Applications
-  - Full Stack Projects
-  - Data Analytics Dashboards
+<a href="https://leetcode.com/u/kushlu786/">
+<img src="https://img.shields.io/badge/LeetCode-kushlu786-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-exploring:
-  - Cloud Computing
-  - Backend Engineering
-  - Open Source
-```
+<a href="https://www.codechef.com/users/kushlu786">
+<img src="https://img.shields.io/badge/CodeChef-kushlu786-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</p>
 
-# 🌐 Connect With Me
+#  Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anusha%20Kondaguduru-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anusha-kondaguduru-b04667353)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-anusha786615-black?style=for-the-badge&logo=github)](https://github.com/anusha786615)
+<a href="mailto:anushakondaguduru037@gmail.com">
+<img src="https://img.shields.io/badge/Email-anushakondaguduru037%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-kushlu786-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kushlu786/)
+</p>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-kushlu786-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/kushlu786)
+<p align="center">
 
-📧 **Email:** anushakondaguduru037@gmail.com
+<a href="https://linkedin.com/in/anusha-kondaguduru-b04667353">
+<img src="https://img.shields.io/badge/LinkedIn-Anusha%20Kondaguduru-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/anusha786615">
+<img src="https://img.shields.io/badge/GitHub-anusha786615-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/kushlu786/">
+<img src="https://img.shields.io/badge/LeetCode-kushlu786-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/kushlu786">
+<img src="https://img.shields.io/badge/CodeChef-kushlu786-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 💬 Quote
+## 
 
 > **"Code with purpose, build with passion, and keep learning every day."**
 
-⭐ If you like my work, consider starring my repositories!
+
