@@ -271,7 +271,6 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
  Active Competitive Programmer
 
----
 <h2 align="left">📜 Certifications</h2>
 
 <p align="center">
@@ -305,7 +304,6 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 </a>
 
 </p>
-
 **Coding Profiles**
 
 <p align="center">
