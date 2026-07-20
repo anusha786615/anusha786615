@@ -346,15 +346,6 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 </p>
 
-<p align="center">
-
-<a href="https://leetcode.com/u/kushlu786/">
-<img src="https://img.shields.io/badge/LeetCode-kushlu786-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/kushlu786">
-<img src="https://img.shields.io/badge/CodeChef-kushlu786-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
 
 </p>
 
