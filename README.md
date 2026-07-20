@@ -321,9 +321,9 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 **Let's Connect**
 
 <p align="center">
-  <a href="mailto:anushakondaguduru037@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anushakondaguduru037%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anushakondaguduru037@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anushakondaguduru037%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
   &nbsp;
   <a href="https://www.linkedin.com/in/anusha-kondaguduru-b04667353">
     <img src="https://img.shields.io/badge/LinkedIn-Anusha%20Kondaguduru-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
