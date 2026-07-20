@@ -334,6 +334,8 @@ A smart campus platform where students and faculty can report garbage issues. Ma
   </a>
 </p>
 
-**"Code with purpose, build with passion, and keep learning every day."**
+<p align="center">
+  <b>"Code with purpose, build with passion, and keep learning every day."</b>
+</p>
 
 </small></small>
