@@ -318,8 +318,8 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 </p>
 
-## Let's Connect
 
+**Let's Connect**
 <p align="center">
 
 <a href="mailto:anushakondaguduru037@gmail.com">
@@ -353,6 +353,6 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 </p>
 
 
-> **"Code with purpose, build with passion, and keep learning every day."**
+                    **"Code with purpose, build with passion, and keep learning every day."**
 
 </small></small>
