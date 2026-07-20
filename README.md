@@ -1,0 +1,227 @@
+# Hi 👋, I'm Anusha Kondaguduru
+
+<h3 align="center">Software Engineering • Full Stack Development • AI & Data Analytics Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anusha786615&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 B.Tech Computer Science & Engineering student at **VNR Vignana Jyothi Institute of Engineering and Technology**.
+
+📈 CGPA: **9.43 / 10**
+
+💡 Passionate about building scalable software using **AI, Full Stack Development, Data Analytics, and Modern Web Technologies**.
+
+🚀 I enjoy solving real-world problems through intelligent applications, backend systems, and interactive dashboards.
+
+---
+
+## 🎯 Core Focus
+
+- 💻 Software Engineering
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence & Generative AI
+- 📊 Data Analytics & Visualization
+- 🗄 Database Design
+- 🧩 Data Structures & Algorithms
+
+---
+
+## 🚀 Open To
+
+- Software Engineering Internships
+- Full Stack Development
+- AI / ML Internships
+- Backend Development
+- Data Analytics Roles
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-orange?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 Kisan Call Centre Query Assistant
+
+**Tech Stack:** Python • IBM Watsonx Granite • FAISS • Streamlit
+
+- AI-powered agricultural query assistant
+- Semantic Search using FAISS
+- IBM Watsonx Granite LLM
+- Farmer-friendly interface
+
+---
+
+## 🚗 MotoMart – Smart Hub for Vehicle Bookings & Rentals
+
+**Tech Stack:** Java • JDBC • MySQL
+
+- Vehicle booking platform
+- Vendor & customer management
+- Authentication system
+- CRUD operations
+- Database normalization
+
+---
+
+## 🏠 House Price Prediction Dashboard
+
+**Tech Stack:** Power BI • DAX • Excel
+
+- Interactive dashboard
+- Market trend analysis
+- Data visualization
+- Business insights
+
+---
+
+# 💼 Experience
+
+### Volunteer – Student Force Club, VNRVJIET
+
+- Assisted in organizing technical workshops.
+- Collaborated on DSA and Git learning sessions.
+- Participated in coding activities and campus events.
+
+---
+
+# 🏆 Achievements
+
+🏅 CGPA **9.43/10**
+
+🏅 Top 100 Coders Competition Participant
+
+🏅 ACM Winter Coding Contest 5.0 Participant
+
+🏅 Built AI-powered and Full Stack Projects
+
+🏅 Active Competitive Programmer
+
+---
+
+# 📜 Certifications
+
+<p>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/e5f24009f4ewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV80MDU4ODU5IiwKICAib2JqZWN0VHlwZSIgOiAiQUNUSVZJVFkiLAogICJsZWFybmVyQ05VTSIgOiAiNzA5MDgwN1JFRyIKfQ38d191e79f-10">
+<img src="https://img.shields.io/badge/IBM-Introduction%20to%20Generative%20AI-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/posts/anusha-kondaguduru-b04667353_servicenow-aicte-thesmartbridge-share-7473071402976403456-tcZv/">
+<img src="https://img.shields.io/badge/ServiceNow-Virtual%20Internship-00A862?style=for-the-badge&logo=servicenow&logoColor=white"/>
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a2bf771b5f840cb51ed44b3_1781943389282_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
+</a>
+
+<a href="https://www.udemy.com/certificate/UC-476731ae-1afc-4e46-bbdf-158f72447c32/">
+<img src="https://img.shields.io/badge/Microsoft-Power%20BI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/XPYNCZOAY53F">
+<img src="https://img.shields.io/badge/IndiaAI-YUVA%20AI%20For%20ALL-orange?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codechef.com/certificates/public/91c3a98">
+<img src="https://img.shields.io/badge/CodeChef-Practice%20Certification-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - System Design
+  - MERN Stack
+  - Machine Learning
+  - Agentic AI
+
+building:
+  - AI-powered Applications
+  - Full Stack Projects
+  - Data Analytics Dashboards
+
+exploring:
+  - Cloud Computing
+  - Backend Engineering
+  - Open Source
+```
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anusha786615&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anusha786615&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=anusha786615&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anusha%20Kondaguduru-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anusha-kondaguduru-b04667353)
+
+[![GitHub](https://img.shields.io/badge/GitHub-anusha786615-black?style=for-the-badge&logo=github)](https://github.com/anusha786615)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-kushlu786-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kushlu786/)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-kushlu786-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/kushlu786)
+
+📧 **Email:** anushakondaguduru037@gmail.com
+
+---
+
+## 💬 Quote
+
+> **"Code with purpose, build with passion, and keep learning every day."**
+
+⭐ If you like my work, consider starring my repositories!
