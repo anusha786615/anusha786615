@@ -319,11 +319,12 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 </p>
 
 
-**Let's Connect**
+## Let's Connect
+
 <p align="center">
 
 <a href="mailto:anushakondaguduru037@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ANUSHAKONDAGUDURU037%40GMAIL.COM-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A4A4A"/>
+<img src="https://img.shields.io/badge/EMAIL-ANUSHAKONDAGUDURU037%40GMAIL.COM-6C2BD9?style=flat-square&logo=gmail&logoColor=white&labelColor=4A4A4A"/>
 </a>
 
 </p>
@@ -331,7 +332,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 <p align="center">
 
 <a href="https://linkedin.com/in/anusha-kondaguduru-b04667353">
-<img src="https://img.shields.io/badge/LINKEDIN-ANUSHA%20KONDAGUDURU-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A4A4A"/>
+<img src="https://img.shields.io/badge/LINKEDIN-ANUSHA%20KONDAGUDURU-4F46E5?style=flat-square&logo=linkedin&logoColor=white&labelColor=4A4A4A"/>
 </a>
 
 </p>
@@ -339,7 +340,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 <p align="center">
 
 <a href="https://github.com/anusha786615">
-<img src="https://img.shields.io/badge/GITHUB-ANUSHA786615-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=4A4A4A"/>
+<img src="https://img.shields.io/badge/GITHUB-ANUSHA786615-3B82F6?style=flat-square&logo=github&logoColor=white&labelColor=4A4A4A"/>
 </a>
 
 </p>
@@ -347,12 +348,12 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 <p align="center">
 
 <a href="https://your-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-anushaportfolio.vercel.app-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4A4A4A"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-anushaportfolio.vercel.app-6C2BD9?style=flat-square&logo=vercel&logoColor=white&labelColor=4A4A4A"/>
 </a>
 
 </p>
 
 
-                    **"Code with purpose, build with passion, and keep learning every day."**
+**"Code with purpose, build with passion, and keep learning every day."**
 
 </small></small>
