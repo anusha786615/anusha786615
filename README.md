@@ -194,18 +194,6 @@ exploring:
   - Open Source
 ```
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=anusha786615&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anusha786615&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=anusha786615&theme=tokyonight)
-
----
-
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anusha%20Kondaguduru-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anusha-kondaguduru-b04667353)
