@@ -1,4 +1,4 @@
-<small>
+<small><small>
 
 <h5 align="center">Anusha Kondaguduru</h5>
 
@@ -348,4 +348,4 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 > **"Code with purpose, build with passion, and keep learning every day."**
 
-</small>
+</small></small>
