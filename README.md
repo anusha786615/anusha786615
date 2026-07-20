@@ -1,6 +1,6 @@
 <small><small>
 
-<h5 align="center">Anusha Kondaguduru</h5>
+<h3 align="center">Anusha Kondaguduru</h3>
 
 <p align="center">
 Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
@@ -31,8 +31,8 @@ Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
 </p>
 
 
-<h6> About Me</h6>
 
+**About Me**
 <p>
 I'm <b>Anusha Kondaguduru</b>, a Computer Science Engineering student at
 <b>VNR Vignana Jyothi Institute of Engineering and Technology</b> with a
@@ -65,8 +65,8 @@ I'm continuously improving my skills through competitive programming, open-sourc
 - AI / ML Internships
 - Backend Development
 - Data Analytics Roles
-## 💻 Tech Stack
 
+**Tech Stack**
 <table>
 <tr>
 <td><strong>Programming Languages</strong></td>
@@ -146,6 +146,7 @@ I'm continuously improving my skills through competitive programming, open-sourc
 </tr>
 
 </table>
+
 **Featured Projects**
 
 <details>
@@ -282,13 +283,9 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 **Achievements**
 
  CGPA **9.43/10**
-
  Top 100 Coders Competition Participant
-
  ACM Winter Coding Contest 5.0 Participant
-
  Built AI-powered and Full Stack Projects
-
  Active Competitive Programmer
 
 <h3 align="center">Certifications</h3>
