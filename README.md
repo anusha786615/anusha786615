@@ -280,15 +280,13 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 - Participated in coding activities and campus events.
 
 
-**Achievements**
+**Achievements & Certifications**
 
  CGPA **9.43/10**
  Top 100 Coders Competition Participant
  ACM Winter Coding Contest 5.0 Participant
  Built AI-powered and Full Stack Projects
  Active Competitive Programmer
-
-<h3 align="center">Certifications</h3>
 
 <p align="center">
 
@@ -321,8 +319,8 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 </a>
 
 </p>
-**Let's Connect**
 
+**Let's Connect**
 <p align="center">
 
 <a href="mailto:anushakondaguduru037@gmail.com">
