@@ -32,7 +32,7 @@ Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
 
 ---
 
-<h6>👩‍💻 About Me</h6>
+<h6> About Me</h6>
 
 <p>
 I'm <b>Anusha Kondaguduru</b>, a Computer Science Engineering student at
@@ -121,10 +121,10 @@ I'm continuously improving my skills through competitive programming, open-sourc
 
 ---
 
-**🚀 Featured Projects**
+** Featured Projects**
 
 <details>
-<summary><b>🌾 Kisan Call Centre Query Assistant</b></summary>
+<summary><b> Kisan Call Centre Query Assistant</b></summary>
 
 **Kisan Call Centre Query Assistant**
 
@@ -156,7 +156,7 @@ An AI-powered agricultural assistant that helps farmers receive accurate answers
 ---
 
 <details>
-<summary><b>🚗 MotoMart – Smart Hub for Vehicle Bookings & Rentals</b></summary>
+<summary><b> MotoMart – Smart Hub for Vehicle Bookings & Rentals</b></summary>
 
 **MotoMart**
 
@@ -188,7 +188,7 @@ A vehicle rental and booking management system that allows customers, vendors, a
 ---
 
 <details>
-<summary><b>🏠 House Price Prediction Dashboard</b></summary>
+<summary><b> House Price Prediction Dashboard</b></summary>
 
 **House Price Prediction Dashboard**
 
@@ -218,7 +218,7 @@ A Power BI dashboard that analyzes housing market data and presents meaningful b
 ---
 
 <details>
-<summary><b>🌐 Smart Campus Garbage Reporting System</b></summary>
+<summary><b> Smart Campus Garbage Reporting System</b></summary>
 
 **Smart Campus Garbage Reporting System**
 
@@ -249,7 +249,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-**💼 Experience**
+** Experience**
 
 **Volunteer – Student Force Club, VNRVJIET**
 
@@ -259,7 +259,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-**🏆 Achievements**
+** Achievements**
 
  CGPA **9.43/10**
 
@@ -273,7 +273,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-**📜 Certifications**
+** Certifications**
 
 <p>
 
