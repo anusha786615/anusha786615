@@ -117,39 +117,140 @@ I'm continuously improving my skills through competitive programming, open-sourc
 
 # 🚀 Featured Projects
 
-## 🌾 Kisan Call Centre Query Assistant
+<details>
+<summary><b>🌾 Kisan Call Centre Query Assistant</b></summary>
 
-**Tech Stack:** Python • IBM Watsonx Granite • FAISS • Streamlit
+### 🌾 Kisan Call Centre Query Assistant
 
-- AI-powered agricultural query assistant
-- Semantic Search using FAISS
-- IBM Watsonx Granite LLM
-- Farmer-friendly interface
+**Tech Stack:** Python • IBM Watsonx Granite • FAISS • Streamlit • FastAPI
+
+**Description**
+
+An AI-powered agricultural assistant that helps farmers receive accurate answers to agricultural queries using Retrieval-Augmented Generation (RAG).
+
+### ✨ Features
+
+- 🤖 AI-powered agricultural query resolution
+- 🔍 Semantic Search using FAISS
+- 🧠 IBM Watsonx Granite LLM
+- 🌐 Streamlit-based interactive interface
+- ⚡ FastAPI backend
+- 📄 PDF document processing
+
+### Skills Demonstrated
+
+- Generative AI
+- RAG Pipeline
+- Vector Databases
+- Prompt Engineering
+- API Development
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+</details>
 
 ---
 
-## 🚗 MotoMart – Smart Hub for Vehicle Bookings & Rentals
+<details>
+<summary><b>🚗 MotoMart – Smart Hub for Vehicle Bookings & Rentals</b></summary>
+
+### 🚗 MotoMart
 
 **Tech Stack:** Java • JDBC • MySQL
 
-- Vehicle booking platform
-- Vendor & customer management
-- Authentication system
-- CRUD operations
-- Database normalization
+**Description**
+
+A vehicle rental and booking management system that allows customers, vendors, and administrators to manage vehicles and bookings efficiently.
+
+### ✨ Features
+
+- 👤 User Authentication
+- 🚘 Vehicle Booking
+- 🏪 Vendor Management
+- 💳 Transaction Management
+- 📊 Admin Dashboard
+- 🗃️ MySQL Database Integration
+
+### Skills Demonstrated
+
+- Java
+- JDBC
+- Database Design
+- CRUD Operations
+- SQL
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+</details>
 
 ---
 
-## 🏠 House Price Prediction Dashboard
+<details>
+<summary><b>🏠 House Price Prediction Dashboard</b></summary>
 
-**Tech Stack:** Power BI • DAX • Excel
+### 🏠 House Price Prediction Dashboard
 
-- Interactive dashboard
-- Market trend analysis
-- Data visualization
-- Business insights
+**Tech Stack:** Power BI • Excel • DAX
+
+**Description**
+
+A Power BI dashboard that analyzes housing market data and presents meaningful business insights through interactive visualizations.
+
+### ✨ Features
+
+- 📈 Interactive Dashboard
+- 📊 KPI Cards
+- 📍 Location-based Analysis
+- 📉 Trend Analysis
+- 🎨 Custom Visualizations
+
+### Skills Demonstrated
+
+- Power BI
+- Data Visualization
+- DAX
+- Business Analytics
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+</details>
 
 ---
+
+<details>
+<summary><b>🌐 Smart Campus Garbage Reporting System</b></summary>
+
+### 🌐 Smart Campus Garbage Reporting System
+
+**Tech Stack:** React • Node.js • MongoDB
+
+**Description**
+
+A smart campus platform where students and faculty can report garbage issues. Maintenance staff receive notifications and update the issue status after cleaning.
+
+### ✨ Features
+
+- 📸 Upload garbage images
+- 📍 Report issue location
+- 🔔 Notification system
+- 👨‍🔧 Staff dashboard
+- ✅ Issue tracking
+- 📊 Admin monitoring
+
+### Skills Demonstrated
+
+- MERN Stack
+- REST APIs
+- MongoDB
+- Authentication
+- Responsive UI
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+</details>
+
+---
+
 
 # 💼 Experience
 
