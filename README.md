@@ -360,7 +360,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-## 
+
 
 > **"Code with purpose, build with passion, and keep learning every day."**
 
