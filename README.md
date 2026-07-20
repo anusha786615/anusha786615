@@ -259,7 +259,7 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 ---
 
-** Achievements**
+**Achievements**
 
  CGPA **9.43/10**
 
