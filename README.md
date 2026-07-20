@@ -66,56 +66,56 @@ I'm continuously improving my skills through competitive programming, open-sourc
 - Backend Development
 - Data Analytics Roles
 
-##  Tech Stack
+**Tech Stack**
 
-### Programming Languages
+**Programming Languages**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r" />
 </p>
 
-### Frontend
+**Frontend**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js" />
 </p>
 
-### Backend
+**Backend**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Databases
+**Databases**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48"/>
 </p>
 
-### AI & Data Science
+**AI & Data Science**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-### Tools
+**Tools**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,vercel" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </p>
 
 
