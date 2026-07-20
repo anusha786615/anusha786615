@@ -28,7 +28,7 @@ Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
 
 <img src="https://img.shields.io/badge/CGPA-9.43%2F10-blueviolet?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DSA-300%2B%20Problems-orange?style=for-the-badge"/>
+
 
 <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
