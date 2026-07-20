@@ -30,7 +30,6 @@ Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
 
 </p>
 
----
 
 <h6> About Me</h6>
 
@@ -58,7 +57,6 @@ I'm continuously improving my skills through competitive programming, open-sourc
 -  Database Design
 -  Data Structures & Algorithms
 
----
 
 **🚀 Open To**
 
@@ -68,7 +66,6 @@ I'm continuously improving my skills through competitive programming, open-sourc
 - Backend Development
 - Data Analytics Roles
 
----
 
 **Tech Stack**
 
@@ -119,7 +116,6 @@ I'm continuously improving my skills through competitive programming, open-sourc
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
----
 
 **Featured Projects**
 
@@ -153,7 +149,6 @@ An AI-powered agricultural assistant that helps farmers receive accurate answers
 
 </details>
 
----
 
 <details>
 <summary><b> MotoMart – Smart Hub for Vehicle Bookings & Rentals</b></summary>
@@ -185,7 +180,6 @@ A vehicle rental and booking management system that allows customers, vendors, a
 
 </details>
 
----
 
 <details>
 <summary><b> House Price Prediction Dashboard</b></summary>
@@ -215,7 +209,6 @@ A Power BI dashboard that analyzes housing market data and presents meaningful b
 
 </details>
 
----
 
 <details>
 <summary><b> Smart Campus Garbage Reporting System</b></summary>
@@ -247,7 +240,6 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 </details>
 
----
 
 **Experience**
 
@@ -257,7 +249,6 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 - Collaborated on DSA and Git learning sessions.
 - Participated in coding activities and campus events.
 
----
 
 **Achievements**
 
@@ -330,7 +321,6 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 </p>
 
----
 
 > **"Code with purpose, build with passion, and keep learning every day."**
 
