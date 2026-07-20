@@ -66,55 +66,62 @@ I'm continuously improving my skills through competitive programming, open-sourc
 - Backend Development
 - Data Analytics Roles
 
-**Tech Stack**
+<h2 align="center">💻 Tech Stack</h2>
 
-**Programming Languages**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r" />
-</p>
-
-**Frontend**
+<p align="center"><b>Programming Languages</b></p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,js,r,cpp" />
 </p>
 
-**Backend**
+<br><br>
+
+<p align="center"><b>Frontend</b></p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,react,js" />
 </p>
 
-**Databases**
+<br><br><br>
+
+<p align="center"><b>Backend</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<br><br><br>
+
+<p align="center"><b>Databases</b></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48"/>
 </p>
 
-**AI & Data Science**
+<br><br><br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+<p align="center"><b>AI & Data Science</b></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
-**Tools**
+<br><br><br>
+
+<p align="center"><b>Tools</b></p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<p align="center">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </p>
 
