@@ -280,10 +280,10 @@ A smart campus platform where students and faculty can report garbage issues. Ma
 
 **Achievements & Certifications**
 
- CGPA **9.43/10**
- Top 100 Coders Competition Participant
- ACM Winter Coding Contest 5.0 Participant
- Built AI-powered and Full Stack Projects
+ CGPA **9.43/10** |
+ Top 100 Coders Competition Participant |
+ ACM Winter Coding Contest 5.0 Participant |
+ Built AI-powered and Full Stack Projects |
  Active Competitive Programmer
 
 <p align="center">
