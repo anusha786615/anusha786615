@@ -21,10 +21,6 @@ Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
 </p>
 
 <p align="center">
-📧 <strong>Email:</strong> anushakondaguduru037@gmail.com
-</p>
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/CGPA-9.43%2F10-blueviolet?style=for-the-badge"/>
 
