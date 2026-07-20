@@ -34,9 +34,7 @@ Software Engineering • Full Stack Developer • AI & Data Analytics Enthusiast
 
 **About Me**
 <p>
-I'm <b>Anusha Kondaguduru</b>, a Computer Science Engineering student at
-<b>VNR Vignana Jyothi Institute of Engineering and Technology</b> with a
-<b>CGPA of 9.43/10</b>.
+I'm <b>Anusha Kondaguduru</b>, an aspiring <b>Software Engineer, Full Stack Developer, and AI & Data Analytics Enthusiast</b> pursuing <b>B.Tech in Computer Science and Engineering</b> at <b>VNR Vignana Jyothi Institute of Engineering and Technology</b>, with a <b>CGPA of 9.43/10</b>.
 
 I enjoy building intelligent software that combines
 <b>Full Stack Development</b>,
